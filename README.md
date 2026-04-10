@@ -113,15 +113,15 @@ Passionate about building scalable and beautiful web applications 🚀
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="screenshots/HomePage.png" width="800" />
+  <img src="src/screenshots/HomePage.png" width="800" />
 </p>
 
 ### 🕒 Active Tasks
 <p align="center">
-  <img src="screenshots/Todo.png" width="800" />
+  <img src="src/screenshots/Todo.png" width="800" />
 </p>
 
 ### 🔍 Completed Tasks
 <p align="center">
-  <img src="screenshots/Completed.png" width="800" />
+  <img src="src/screenshots/Completed.png" width="800" />
 </p>
