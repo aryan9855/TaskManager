@@ -111,17 +111,17 @@ Passionate about building scalable and beautiful web applications 🚀
 
 ## 📸 Screenshots
 
-### 🏠 Main Dashboard
+### 🏠 Home Page
 <p align="center">
-  <img src="screenshots/dashboard.png" width="800" />
+  <img src="screenshots/HomePage.png" width="800" />
 </p>
 
-### 🕒 Task Timestamps
+### 🕒 Active Tasks
 <p align="center">
-  <img src="screenshots/timestamps.png" width="800" />
+  <img src="screenshots/Todo.png" width="800" />
 </p>
 
-### 🔍 Filtered View
+### 🔍 Completed Tasks
 <p align="center">
-  <img src="screenshots/filters.png" width="800" />
+  <img src="screenshots/Completed.png" width="800" />
 </p>
