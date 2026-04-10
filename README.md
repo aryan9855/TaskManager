@@ -4,14 +4,6 @@
   A Premium Full-Stack Task Management Application (MERN Style)
 </p>
 
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-API-blue?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
@@ -59,7 +51,7 @@ Framer Motion (UI Feedback)
 
 ## 🔐 Key Features
 
-✔ **Premium UI**: Ultra-modern glassmorphic design and smooth transitions.  
+✔ **Premium UI**: Ultra-modern design and smooth transitions.  
 ✔ **Smart Timestamps**: Automatic tracking of when each task was created.  
 ✔ **Inline Editing**: Double-click to rename tasks without leaving the view.  
 ✔ **Data Persistence**: Tasks are saved to a local JSON file to ensure data isn't lost.  
